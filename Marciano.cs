@@ -12,6 +12,7 @@ namespace jjuegoGuerra
         public Marciano(string nombre) : base(nombre)
         {
             _cuantosVivos++;
+            //aqui se agrego codigo
         }
 
         public int CuantosVivos
